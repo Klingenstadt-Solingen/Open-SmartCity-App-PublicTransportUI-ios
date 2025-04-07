@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  OSCAPublicTransportUI
+
+  Created by Ömer Kurutay on 05.05.22.
+  
+*/
+
+// MARK: Shared
+
+// The unit for hours
+"public_transport_hour_unit" = "Std.";
+// The unit for minutes
+"public_transport_minute_unit" = "Min.";
+
+// MARK: Public Transport
+
+// The screen title
+"public_transport_screen_title" = "Reiseauskunft";
+// The placeholder text for the departure field
+"public_transport_placeholder_departure" = "von";
+// The placeholder text for the destination field
+"public_transport_placeholder_destination" = "nach";
+// The departure title for the travel time
+"public_transport_departure_title" = "Abfahrt";
+// The arrival title for the travel time
+"public_transport_arrival_title" = "Ankunft";
+// The current time title for the travel time
+"public_transport_current_time_title" = "Jetzt";
+// The search title for the travel
+"public_transport_search_title" = "Suchen";
+// The title for stops nearby
+"public_transport_nearby_stops_title" = "Haltestellen in der Nähe";
+// The title for search suggestions
+"public_transport_search_suggestions_title" = "Suchvorschläge";
+// The title for the route connections
+"public_transport_route_connection_title" = "Streckenverbindungen";
+// The title for starting time of the journey
+"public_transport_start_departure_time_title" = "Startet in";
+// The title for starting time of the journey in the past
+"public_transport_start_departure_time_title_past" = "Startete vor";
+// The title for starting location of the journey
+"public_transport_start_departure_location_title" = "Von";
+// The title to start moving
+"public_transport_move_departure_time_title" = "Gehe los in";
+// The title to start moving in the past
+"public_transport_move_departure_time_title_past" = "Gehe los vor";
+// The title for using current location
+"public_transport_my_location_title" = "Mein Standort";
+// The text for the section header of nearby stops while loading
+"public_transport_nearby_stops_loading_title" = "Lade Haltestelle in der Nähe...";
+// The text for the section header of queried stops while loading
+"public_transport_queried_stops_loading_title" = "Suche nach Haltestellen...";
+// The text for the spinner while loading for routes
+"public_transport_swift_spinner_title" = "Suche nach Streckenverbindungen...";
+
+// MARK: Public Transport Departure
+
+// The title before driving destination
+"public_transport_driving_destination_title" = "nach";
+
+// MARK: Public Transport Route
+
+// The screen title
+"public_transport_route_screen_title" = "Reiseplan";
+// Show text for tomorrow
+"public_transport_tomorrow" = "Morgen";
+// Show text for footpath
+"public_transport_footpath" = "Fußweg";
+// Show text for stop
+"public_transport_stop" = "Haltestellen";
+
+
+// Stop selection modal
+"public_transport_select_origin_title" = "Start auswählen";
+"public_transport_select_destination_title" = "Ziel auswählen";
+"public_transport_suggested_stops_label" = "Vorgeschlagene Haltestellen";
+"public_transport_search_result_label" = "Suchergebnis";
+"public_transport_search_result_empty_label" = "Keine Haltestellen gefunden";
+"public_transport_search_loading" = "Laden...";

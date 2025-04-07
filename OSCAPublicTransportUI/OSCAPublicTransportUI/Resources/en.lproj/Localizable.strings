@@ -1,0 +1,79 @@
+/* 
+  Localizable.strings
+  OSCAPublicTransportUI
+
+  Created by Ömer Kurutay on 05.05.22.
+  
+*/
+
+// MARK: Shared
+
+// The unit for hours
+"public_transport_hour_unit" = "h";
+// The unit for minutes
+"public_transport_minute_unit" = "min";
+
+// MARK: Public Transport
+
+// The screen title
+"public_transport_screen_title" = "Travel information";
+// The placeholder text for the departure field
+"public_transport_placeholder_departure" = "from";
+// The placeholder text for the destination field
+"public_transport_placeholder_destination" = "to";
+// The departure title for the travel time
+"public_transport_departure_title" = "Departure";
+// The arrival title for the travel time
+"public_transport_arrival_title" = "Arrival";
+// The current time title for the travel time
+"public_transport_current_time_title" = "Now";
+// The search title for the travel
+"public_transport_search_title" = "Search";
+// The title for stops nearby
+"public_transport_nearby_stops_title" = "Stops nearby";
+// The title for search suggestions
+"public_transport_search_suggestions_title" = "Search suggestions";
+// The title for the route connections
+"public_transport_route_connection_title" = "Route connections";
+// The title for starting time of the journey
+"public_transport_start_departure_time_title" = "Starts in";
+// The title for starting time of the journey in the past
+"public_transport_start_departure_time_title_past" = "Started before";
+// The title for starting location of the journey
+"public_transport_start_departure_location_title" = "From";
+// The title to start moving
+"public_transport_move_departure_time_title" = "Move in";
+// The title to start moving in the past
+"public_transport_move_departure_time_title_past" = "Move before";
+// The title for using current location
+"public_transport_my_location_title" = "My location";
+// The text for the section header of nearby stops while loading
+"public_transport_nearby_stops_loading_title" = "Loading stops nearby...";
+// The text for the section header of queried stops while loading
+"public_transport_queried_stops_loading_title" = "Searching for stops...";
+// The text for the spinner while loading for routes
+"public_transport_swift_spinner_title" = "Searching for routes...";
+
+// MARK: Public Transport Departure
+
+// The title before driving destination
+"public_transport_driving_destination_title" = "to";
+
+// MARK: Public Transport Route
+
+// The screen title
+"public_transport_route_screen_title" = "Itinerary";
+// Show text for tomorrow
+"public_transport_tomorrow" = "tomorrow";
+// Show text for footpath
+"public_transport_footpath" = "footpath";
+// Show text for stop
+"public_transport_stop" = "Stops";
+
+// Stop selection modal
+"public_transport_select_origin_title" = "Origin";
+"public_transport_select_destination_title" = "Destination";
+"public_transport_suggested_stops_label" = "Suggested stops";
+"public_transport_search_result_label" = "Search result";
+"public_transport_search_result_empty_label" = "No stops found";
+"public_transport_search_loading" = "Loading...";
